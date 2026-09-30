@@ -28,3 +28,8 @@ h1 {
 	font-size: 1.6em;
 	margin-bottom: 30px;
 }
+
+.article {
+	padding: 10px;
+	border-bottom: 2px double var(--deep-mocha);
+}
